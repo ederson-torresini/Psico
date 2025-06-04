@@ -1,0 +1,17 @@
+<html>
+  <head></head>
+  <body>
+    <script>
+      function ativarGeolocalizacao() {
+        if (navigator.geolocation) {
+          navigator.geolocation.watchPosition(function (position) { 
+            texto.innerHTML = position.coords.latitude + "," + position.coords.longitude;});
+        }
+      }
+    </script>
+
+    <button id="botao" onclick="ativarGeolocalizacao()">Geolocalizar!</button>
+
+    <text id="1texto"</text>
+  </body>
+</html>
