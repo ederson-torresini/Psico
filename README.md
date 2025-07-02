@@ -1,4 +1,5 @@
 # Psico
+(Entrega 3)
    Definição do universo:
 
 Uma velha discoteca chamada Mirage Club, abandonada desde os anos 80 após uma tragédia não explicada, tornou-se uma lenda.
@@ -89,3 +90,46 @@ Luzes piscam freneticamente.
 Música tocada automaticamente distorce até virar ruído.
 Som final: “Agora vocês fazem parte da faixa... para sempre.”
 Tudo apaga. Fim.
+
+
+(Entrega 4)
+   Universo: personagens, regras, objetivos, fontes de receita:
+
+1. Personagens:
+
+- DJ  (sobrenatural)
+Era o dono da discoteca..
+Obcecado por sucesso, teria feito um pacto com forças ocultas para criar a “faixa perfeita”.
+Após o ritual, foi consumido e preso no vinil ou fita k7 amaldiçoado.
+Sua presença ainda ronda a discoteca, tentando transformar novos visitantes em parte da faixa maldita e dançando com ele para sempre.
+
+2.Regras:
+
+Tempo total: 30 minutos.
+Os jogadores podem sair em caso de emergência, mas isso encerra a partida (fica uma chave que abre a porta com 1 dos jogadores, apenas usar em emergência).
+Devem ser resolvidos em sequência os enigmas 
+Até 3 dicas podem ser solicitadas durante o jogo pelo relógio entregue a um dos jogadores no começo da partida.
+Nada deve ser desmontado com força bruta. 
+Celulares proibidos
+
+3.Objetivo:
+
+Descobrir o que causou a tragédia na virada de 1983.
+Impedir que o ritual se repita e libertar os espíritos presos.
+Escapar da discoteca antes de dançar para sempre com os espíritos.
+Resolver todos os enigmas para encontrar e tocar a faixa correta do DJ.
+Ativar o mecanismo de libertação (vinil ou fita) e sair antes do tempo limite (30 minutos)
+
+4.Receita:
+
+Sala 1 “Camarim do DJ e pista de dança”
+Enigma 1: Um quadro de luz com disjuntores. Jogadores devem reordenar a sequência correta
+Enigma 2: Um toca-fitas antigo com uma fita que toca uma mensagem enigmática
+Enigma 3: Diário escondido com pistas. Algumas páginas só podem ser lidas com luz negra.
+Enigma 4: Os jogadores devem mixar os sons corretos usando botões e alavancas com cores e símbolos relacionados à sequência dos eventos da noite.
+
+
+Final bom: Jogadores tocam a música certa, luzes se acendem, o “loop” é quebrado e a porta de saída abre.
+
+
+Final ruim (tempo esgotado): Vinil toca sozinho, porta tranca, som aumenta gradualmente, luzes piscam e tudo apaga.
