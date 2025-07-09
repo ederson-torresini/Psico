@@ -91,7 +91,7 @@ Música tocada automaticamente distorce até virar ruído.
 Som final: “Agora vocês fazem parte da faixa... para sempre.”
 Tudo apaga. Fim.
 
-
+__________________________________________________________________________________________________________________________________________________________________
 (Entrega 4)
    Universo: personagens, regras, objetivos, fontes de receita:
 
@@ -133,3 +133,104 @@ Final bom: Jogadores tocam a música certa, luzes se acendem, o “loop” é qu
 
 
 Final ruim (tempo esgotado): Vinil toca sozinho, porta tranca, som aumenta gradualmente, luzes piscam e tudo apaga.
+
+__________________________________________________________________________________________________________________________________________________________________
+  (Entrega 5)
+Fluxograma Narrativo – Jogo de Escape Room: “Mirage Club”
+[Cena 0: Introdução (Vídeo ou Áudio)]
+Apresenta a lenda do Mirage Club e a tragédia de 1983.
+
+
+Explica que o grupo de jovens quer explorar o local.
+
+
+Escolha do personagem (opcional).
+
+
+[Cena 1: Entrada no Mirage Club]
+Portão enferrujado, grafites estranhos.
+
+
+Primeira interação: forçar a entrada ou encontrar chave escondida.
+
+
+Portas se fecham sozinhas atrás deles.
+
+
+[Cena 2: Saguão / Recepção]
+Luzes piscam ao ritmo de uma batida distante.
+
+
+Enigma: remontar um quadro quebrado (retratos dos desaparecidos).
+
+
+Primeira alucinação auditiva: risadas e eco de uma contagem regressiva.
+
+
+[Cena 3: Sala de Disco / Pista de Dança]
+Espelhos mostram reflexos que não são os dos jogadores.
+
+
+Quebra-cabeça musical: reproduzir a sequência correta de luzes e sons para abrir caminho.
+
+
+Fragmento da “música maldita” é ouvido brevemente.
+
+
+Um dos jogadores vê um espírito dançando.
+
+
+[Cena 4: Sala do DJ / Cabine de Som]
+Equipamentos antigos, toca-fitas invertido.
+
+
+Puzzle: decifrar fitas gravadas ao contrário com vozes do além.
+
+
+Revelação: a música amaldiçoada ainda está presa nos rolos.
+
+
+Uma entidade tenta se comunicar.
+
+
+[Cena 5: Loop Temporal]
+Jogadores voltam ao saguão, mas tudo está diferente (versão de 1983).
+
+
+Personagens veem os desaparecidos, como se estivessem na festa.
+
+
+Escolha moral: interagir ou ignorar essas “ilusões”.
+
+
+Precisam encontrar o relógio quebrado que comanda o tempo.
+
+
+[Cena 6: Quarto dos Fundadores / Sala Secreta]
+Descoberta: o DJ era um ocultista.
+
+
+Ritual selado com sangue de convidados.
+
+
+Quebra-cabeça ritualístico: reorganizar símbolos ou espelhos para revelar a verdade.
+
+
+[Cena 7: Enfrentamento Final - A Música Maldita]
+Música começa a tocar automaticamente.
+
+
+Jogadores precisam desmontar o sistema de som antes da batida final (corrida contra o tempo).
+
+
+Espíritos tentam impedir, gerando distorções visuais e auditivas.
+
+
+[Cena 8: Fuga / Epílogo]
+Se conseguirem parar a música, um portal de luz se abre.
+
+
+Se falharem, ficam presos no loop para sempre.
+
+
+Final variável: liberdade, sacrifício ou possessão.
