@@ -6,12 +6,16 @@ export class Boot extends Scene {
   }
 
   preload() {
-    this.load.image("corridor", "assets/corridor.png");
+    this.load.image("discoteca", "assets/abertura-fundo.png");
   }
 
   create() {
-      this.add
-          .image(400, 225, "corridor");
-      
+    this.add
+      .image(400, 225, "discoteca")
+      .setInteractive()
+      .on("pointerdown", () => {
+        this.scene.stop();
+        this.scene.start("Preloader");
+      });
   }
 }
